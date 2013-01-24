@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/har" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:text="
+        
+Хотын дарга асан Г.Мөнхбаяр “ял”-аасаа мултарав уу? =====> http://paparatsi.mn/mny"
+   />
+   
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:text="
+        
+Жүжигчин Өөскөгийн энэ зуны имиж ====> http://paparatsi.mn/mnx" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:text="
+  
+        
+ Бүх цаг үеийн оддын хамгийн ихээр сонгож байгаа хайртай 7 гутлыг нь танилцуулах гэж байна. Гадсан өсгийт дээр ганхаж явах нь бүсгүй бидний бахархал биш гэж үү. Ингээд тэдний сонирхлыг хамтдаа сонжицгооё.
+ Дэлгэрэнгүйг: http://goolingoo.mn/index.php?c=6347" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:text="
+        
+Монголын толгой баячуудтай танилц
+http://www.assa.mn/content/13292.shtml?a=yellow" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="13sp"
+        android:text="
+        
+Малгай баяртай. Үсээ задгай тавиад үзэсгэлэн гоогоо мэдрүүлэх цаг ирлээ. Гэхдээ үс тань бэлэн үү? Дараах зөвлөгөөний тусламжтайгаар хэн ч харсан анзаарахгүй байхын аргагүй сайхан үстэй болоод аваарай.
+http://shop.avlaa.mn/pink/item/18190-үсээ-хэрхэн-гялалзсан-болгох-вэ" />
+
+
+</LinearLayout>

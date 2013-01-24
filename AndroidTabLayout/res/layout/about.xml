@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.78"
+        android:text="БИДНИЙ ТУХАЙ
+Хэвлэл мэдээллийн салбарт нэгэн цахим хуудас мэндэллээ. Энэ бол www.paparatsi.mn сайт. Дижитал эх сурвалжаас баримт дэлгэх манай сайт та бүхний дотно түнш байх болно.“Папараци Сошиал Медиа Групп”-ийн хүрээнд үйл ажиллагаагаа эхлүүлж буй сайтын зорилго нь фото зургаар дамжуулан уншигчид, ард түмэндээ нийгмийн бодит байдал, шударга бус үзэгдлүүдийг дэлгэн харуулснаар өнөөгийн тулгамдаж байгаа асуудлуудаас гарах гарцыг хайх юм.Өнөөдөр нүүрлээд буй баян хоосны ялгаанаас эхлээд “хөшиг”-ний ард өрнөж байдаг зөвт бус байдлыг дэлгэн харуулах ард түмний дуу хоолой байх нь бидний гол зорилго билээ."
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="19sp" />
+
+</LinearLayout>
